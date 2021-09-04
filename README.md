@@ -105,14 +105,3 @@ Please see [The Python Fire Guide](docs/guide.md).
 | [Completion](docs/using-cli.md#completion-flag) | `command -- --completion [shell]`       | Generates a completion script for the CLI.
 | [Trace](docs/using-cli.md#trace-flag)           | `command -- --trace`                    | Gets a Fire trace for the command.
 | [Verbose](docs/using-cli.md#verbose-flag)       | `command -- --verbose`                  |
-
-_Note that these flags are separated from the Fire command by an isolated `--`._
-
-## License
-
-Licensed under the
-[Apache 2.0](https://github.com/google/python-fire/blob/master/LICENSE) License.
-
-## Disclaimer
-
-This is not an official Google product.
